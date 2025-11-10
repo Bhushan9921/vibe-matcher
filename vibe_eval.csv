@@ -1,0 +1,4 @@
+query,top1_name,top1_score,good_match,fallback_used,latency_sec
+energetic urban chic,City Sprint Sneakers,0.3784274396558214,False,False,0.002126760999999533
+cozy cottagecore,Cozy Knit Cardigan,0.16590155035934,False,True,0.0015007579999917198
+minimal monochrome,Minimalist Monochrome Blazer,0.3453311477594101,False,False,0.0012646140000072137
